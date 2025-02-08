@@ -17,6 +17,10 @@
       "path": "apps/web-naive",
     },
     {
+      "name": "@vben/bestmms",
+      "path": "bestmms",
+    },
+    {
       "name": "@vben/docs",
       "path": "docs",
     },

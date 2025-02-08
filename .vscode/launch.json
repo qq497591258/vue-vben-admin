@@ -13,6 +13,15 @@
     },
     {
       "type": "chrome",
+      "name": "vben admin bestmms dev",
+      "request": "launch",
+      "url": "http://localhost:5555",
+      "env": { "NODE_ENV": "development" },
+      "sourceMaps": true,
+      "webRoot": "${workspaceFolder}/bestmms"
+    },
+    {
+      "type": "chrome",
       "name": "vben admin antd dev",
       "request": "launch",
       "url": "http://localhost:5666",
